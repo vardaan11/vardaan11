@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="" target="_blank"><img align="center" src="" alt="vardaan11 Github Profile" height="30" width="40" /></a>
+<a href="https://github.com/vardaan11" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="vardaan11 Github Profile" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vardaan11/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin/vardaan11" height="30" width="40" /></a>
 <a href="https://leetcode.com/vardaan11/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode.com/vardaan11" height="30" width="40" /></a>
 </p>
