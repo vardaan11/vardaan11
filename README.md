@@ -18,12 +18,8 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vardaan11&label=Profile%20views&color=0e75b6&style=fla" alt="vardaan11" /> </p>
 <h3 align="center">CS undergrad</h3>
 
-- 👀 Actively looking for Software Development Internship
-- 🔭 Always working on my development skills 
-- 👯 I’m looking to collaborate on Computer Vision projects, let's go buddy!
-- 🌱 I’m currently learning Computer Vision, Artificial Intelligence & Data Science
-- 🤔 I’m looking for help with getting deploying apps on the net
-- 💬 Let's talk about Data Structures & Algorithm
+- 🌱 I’m currently learning Salesforce
+- 💬 May the Force be with you!
 - 📫 Ping me at my Gmail:  [@Gmail](vardaan209@gmail.com)
 - ⚡ Fun fact: I like movies too!
 
